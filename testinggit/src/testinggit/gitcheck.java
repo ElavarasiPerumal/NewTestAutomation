@@ -7,7 +7,7 @@ public class gitcheck {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Checking the git....7777777");
+		System.out.println("New Git");
 
 	}
 
